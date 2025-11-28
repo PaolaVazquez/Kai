@@ -20,13 +20,13 @@
                             </div>
                             <div class="">
                                 <h6 class="mBold fz-24">1. Introducción.</h6>
-                                <p class="mExtraLight fz-22">
+                                <p class="mLight fz-22">
                                     Esta página establece los "términos y condiciones" bajo los cuales usted puede utilizar KAI STUDIO por favor
                                     lea esta página cuidadosamente. Si no acepta los términos y condiciones establecidos aquí, no utilice este sitio de
                                     Internet ni este servicio.
                                 </p>
                                 <h6 class="mBold fz-24">2. Aceptación de términos.</h6>
-                                <p class="mExtraLight fz-22">
+                                <p class="mLight fz-22">
                                     Al utilizar este sitio de Internet, usted acepta obligarse a éstos términos y condiciones. Los términos y
                                     condiciones pueden ser actualizados por KAI STUDIO  en cualquier momento y sin previo aviso por lo que
                                     debe visitar ésta página periódicamente para consultar la versión más reciente de los términos y condiciones.
@@ -34,7 +34,7 @@
                                     que acceden a este sitio de Internet por cualquier razón.
                                 </p>
                                 <h6 class="mBold fz-24">3. Acuerdo Obligatorio.</h6>
-                                <p class="mExtraLight fz-22">
+                                <p class="mLight fz-22">
                                     Estos términos pueden ser cambiados periódicamente por KAI STUDIO  los cuales forman un acuerdo obligatorio
                                     entre usted y DEESA SA DE CV.
                                     El solo ingreso al portal le otorga al público en general o a quien lo navegue o use, la condición de
@@ -45,7 +45,7 @@
                                     “usuario” asegurarse de tomar conocimiento de tales modificaciones.
                                 </p>
                                 <h6 class="mBold fz-24">4. Descripción del Servicio.</h6>
-                                <p class="mExtraLight fz-22">
+                                <p class="mLight fz-22">
                                     Queda establecido que usted entiende y acepta que el servicio puede incluir ciertas comunicaciones de DEESA SA DE CV
                                     como mensajes administrativos y anuncios de servicio, éstas comunicaciones son consideradas como parte del servicio
                                     de KAI STUDIO y usted no puede excluir la recepción de dichas comunicaciones. El uso de la herramienta online
@@ -57,20 +57,20 @@
                                     que se agrega al final de cada pieza de correo electrónico enviada.
                                 </p>
                                 <h6 class="mBold fz-24">5. Otras Reglas Particulares de Uso del Sitio Web:</h6>
-                                <p class="mExtraLight fz-22">
+                                <p class="mLight fz-22">
                                     Usted representa, garantiza y acepta que usted no usará (o planeará, motivará o ayudará a otros a usar) el Sitio Web para
                                     cualquier otro propósito o que en cualquier manera esté prohibido por los términos aquí mencionados o los que sean
                                     aplicables por ley. Es su responsabilidad asegurar que usted use el Sitio Web de acuerdo a los términos aquí especificados.
                                 </p>
                                 <h6 class="mBold fz-24">6. Reglas de Publicación. Conducta y Seguridad:</h6>
-                                <p class="mExtraLight fz-22">
+                                <p class="mLight fz-22">
                                     Usted acepta cumplir con las reglas de KAI STUDIO de Conducta y de Seguridad en este sitio Web. Usuarios que
                                     violen dichas reglas tendrán el uso y el acceso del sitio suspendido o cancelado a discreción exclusiva de DEESA SA DE CV. <br/>
                                     KAI STUDIO se reserva el derecho de cambiar estas reglas. <br/>
                                     Las reglas de Conducta, Publicación y Seguridad son como se describe a continuación:
                                 </p>
                                 <h6 class="mBold fz-24">6.1 General:</h6>
-                                <p class="mExtraLight fz-22">
+                                <p class="mLight fz-22">
                                     La información de contacto de KAI STUDIO  está listada en el Sitio Web. KAI STUDIO y sus agentes asociados no
                                     asumen responsabilidad de que el contenido sea apropiado o sea bajado fuera de la República Mexicana. El acceso al
                                     contenido del sitio de Internet puede no ser legal para ciertas personas o en ciertos países. Si usted tiene acceso
@@ -79,7 +79,7 @@
                                     Servicios de conformidad con la ley, estas Condiciones Generales, las Condiciones Particulares aplicables, así como
                                     con la moral y buenas costumbres generalmente aceptadas y el orden público.
                                 </p>
-                                <p class="mExtraLight fz-22">
+                                <p class="mLight fz-22">
                                     KAI STUDIO excluye cualquier responsabilidad por los daños y perjuicios de toda naturaleza que puedan deberse a
                                     los servicios prestados por terceros a través del Sitio Web, y en particular, aunque no de modo exclusivo por los
                                     daños y perjuicios que puedan deberse a el incumplimiento de la ley, la moral y las buenas costumbres generalmente
@@ -100,7 +100,7 @@
                                     Condiciones Generales o las Condiciones Particulares que resulten de.
                                 </p>
                                 <h6 class="mBold fz-24">6.2 Reglas de Conducta:</h6>
-                                <p class="mExtraLight fz-22">
+                                <p class="mLight fz-22">
                                     <ul>
                                         <li>
                                             Usted no puede responder a publicaciones a nombre de otros usuarios de ninguna manera y para ningún otro

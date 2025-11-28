@@ -2220,7 +2220,7 @@
                     "homepage": "https://nette.org/contributors"
                 }
             ],
-            "description": "🛠  Nette Utils: mExtraLightweight utilities for string & array manipulation, image handling, safe JSON encoding/decoding, validation, slug or strong password generating etc.",
+            "description": "🛠  Nette Utils: mLightweight utilities for string & array manipulation, image handling, safe JSON encoding/decoding, validation, slug or strong password generating etc.",
             "homepage": "https://nette.org",
             "keywords": [
                 "array",
@@ -2940,7 +2940,7 @@
                 "hamcrest/hamcrest-php": "^2.0",
                 "jangregor/phpstan-prophecy": "^2.1",
                 "mockery/mockery": "^1.6",
-                "php-parallel-lint/php-console-highmExtraLighter": "^1.0",
+                "php-parallel-lint/php-console-highmLighter": "^1.0",
                 "php-parallel-lint/php-parallel-lint": "^1.4",
                 "phpspec/prophecy-phpunit": "^2.3",
                 "phpstan/extension-installer": "^1.4",
