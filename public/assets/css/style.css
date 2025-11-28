@@ -1,0 +1,541 @@
+html,
+body {
+    width: 100% !important;
+    overflow-x: hidden;
+    background-color: #f1e6d5 !important;
+}
+.a_none_style {
+    text-decoration: none;
+}
+.bg-green {
+    background-color: #d9d6b4;
+}
+.bg-matcha {
+    background-color: #8fa07c;
+}
+.txt-verde {
+    color: #8fa07c;
+}
+@font-face {
+    font-family: "Brittany";
+    src: url("./fonts/BrittanySignature.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Montserrat Extra Light";
+    src: url("./fonts/Montserrat-ExtraLight.otf") format("truetype");
+}
+@font-face {
+    font-family: "Montserrat Regular";
+    src: url("./fonts/Montserrat-Regular.otf");
+}
+@font-face {
+    font-family: "Montserrat Medium";
+    src: url("./fonts/Montserrat-Medium.otf");
+}
+@font-face {
+    font-family: "Montserrat SemiBold";
+    src: url("./fonts/Montserrat-SemiBold.otf");
+}
+@font-face {
+    font-family: "Montserrat Bold";
+    src: url("./fonts/Montserrat-Bold.otf");
+}
+@font-face {
+    font-family: "Open Sauce ExtraLight";
+    src: url("./fonts/OpenSauceTwo-Light.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Open Sauce Medium";
+    src: url("./fonts/OpenSauceTwo-Medium.ttf");
+}
+@font-face {
+    font-family: "Open Sauce SemiBold";
+    src: url("./fonts/OpenSauceSans-SemiBold.ttf");
+}
+@font-face {
+    font-family: "Open Sauce Bold";
+    src: url("./fonts/OpenSauceSans-Bold.ttf");
+}
+.mExtraLight {
+    font-family: "Montserrat Extra Light";
+}
+.mRegular {
+    font-family: "Montserrat Regular";
+}
+.mMedium {
+    font-family: "Montserrat Medium";
+}
+.mSemiBold {
+    font-family: "Montserrat SemiBold";
+}
+.mBold {
+    font-family: "Montserrat Bold";
+}
+.brittany {
+    font-family: "Brittany";
+}
+.oSauceLight {
+    font-family: "Open Sauce ExtraLight";
+}
+.oSauceMedium {
+    font-family: "Open Sauce Medium";
+}
+.oSauceSemiBold {
+    font-family: "Open Sauce SemiBold";
+}
+.oSauceBold {
+    font-family: "Open Sauce Bold";
+}
+label,
+input,
+select,
+option,
+textarea {
+    font-family: "Montserrat Extra Light";
+}
+.logo-menu {
+    width: 100px;
+}
+.nav-link {
+    text-transform: uppercase;
+    font-size: 20px;
+    font-family: "Open Sauce ExtraLight";
+}
+.nav-item {
+    margin-right: 2rem;
+}
+/*Carousel top*/
+.imagen-carrousel {
+    width: 100%;
+}
+.splide {
+    padding: 0;
+}
+.splide__arrow {
+    background: #d9d6b4 !important;
+    background-color: #d9d6b4 !important;
+    border-radius: 100% !;
+}
+.splide__arrow svg {
+    height: 1.5em !important;
+    fill: #fff !important;
+}
+.splide__arrow:hover svg {
+    fill: #fff !important;
+}
+.welcome-text {
+    text-align: center;
+}
+.welcome-text h3 {
+    font-size: 5rem;
+    text-transform: uppercase;
+}
+.welcome-text h4 {
+    font-size: 1.3rem;
+    font-family: "Montserrat Regular";
+    text-transform: uppercase;
+}
+.welcome-text p {
+    font-family: "Montserrat Regular";
+    font-size: 15px;
+}
+.tit-products {
+    font-size: 4rem;
+    text-transform: uppercase;
+}
+.card-product p {
+    color: #fff;
+    font-family: "Montserrat ExtraLight";
+    font-size: 20px;
+    margin-top: 1.5rem;
+}
+.card-product {
+    background-color: #8fa07c;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    height: 280px;
+}
+.icon-card {
+    width: 100px;
+    filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(239deg)
+        brightness(106%) contrast(106%);
+}
+.btn-quote {
+    background-color: #8fa07c;
+    border-color: #8fa07c;
+    font-family: "Montserrat Medium";
+    font-size: 20px;
+    letter-spacing: 4px;
+}
+.btn-quote:hover {
+    background-color: #d9d6b4;
+    border-color: #8fa07c;
+    color: #8fa07c;
+    font-family: "Montserrat Medium";
+    font-size: 20px;
+    letter-spacing: 4px;
+}
+.card {
+    border-radius: 5% 5% 15% 15%;
+    background-color: #f1e6d5;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border: none;
+}
+.card-img-top {
+    border-radius: 5% 5% 0 0;
+}
+.card-body {
+    background-color: #fffaef;
+    border-radius: 0 0 20px 20px;
+}
+.width-card {
+    width: 25rem;
+}
+.btn-quote-card {
+    font-family: "Montserrat Bold";
+    background-color: #8fa07c;
+    border-color: #8fa07c;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 10px;
+}
+.btn-quote-card:hover {
+    font-family: "Montserrat Bold";
+    background-color: #d9d6b4;
+    border-color: #8fa07c;
+    color: #8fa07c;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 10px;
+}
+.heigth-image-card {
+    height: 300px;
+}
+.card-product-content {
+    text-align: center;
+}
+.card-product-content h1 {
+    font-family: "Montserrat Medium";
+    font-size: 20px;
+}
+.price-card {
+    color: #8fa07c;
+    font-family: "Montserrat Bold";
+    font-size: 30px;
+}
+.tit-section-price-product {
+    text-align: center;
+}
+.tit-section-price-product h3 {
+    font-size: 4rem;
+}
+.visual-rest-title h2 {
+    margin-top: 4rem;
+    font-family: "Montserrat Medium";
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    font-size: 2.2rem;
+}
+.visual-rest-title p {
+    font-family: "Open Sauce ExtraLight";
+    font-size: 18px;
+}
+.contact-tit {
+    font-size: 3rem;
+    color: #8fa07c;
+    font-family: "Open Sauce Medium";
+}
+.contact-form {
+    margin-top: 5rem;
+}
+.hidde {
+    display: none;
+}
+.logo-footer {
+    width: 200px;
+}
+.social-media-color {
+    color: #fff;
+}
+.social-media-color {
+    color: #fff;
+    filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(28deg)
+        brightness(106%) contrast(101%);
+    width: 20px;
+}
+.location-img {
+    margin-right: 1.5rem;
+    color: #fff;
+    filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(28deg)
+        brightness(106%) contrast(101%);
+    width: 15px;
+}
+footer h4 {
+    font-family: "Open Sauce Medium";
+    color: #fff;
+}
+footer p,
+a {
+    font-family: "Open Sauce ExtraLight";
+    color: #fff;
+}
+.form-floating > .form-control,
+.form-floating > .form-control-plaintext,
+.form-floating > .form-select > .comments {
+    height: 150px;
+}
+.btn-contact {
+    background-color: #8fa07c;
+    border-color: #8fa07c;
+    font-family: "Open Sauce Medium";
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+.btn-contact:hover {
+    background-color: #8fa07c;
+    border-color: #8fa07c;
+    font-family: "Open Sauce Medium";
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+.form-select:focus {
+    border-color: rgb(143, 160, 124);
+    box-shadow: 0 0 0 0.25rem rgba(143, 160, 124, 0.25);
+}
+.form-control:focus {
+    border-color: rgb(143, 160, 124);
+    box-shadow: 0 0 0 0.25rem rgba(143, 160, 124, 0.25);
+}
+.form-check-input:checked {
+    background-color: #8fa07c;
+    border-color: #8fa07c;
+}
+.form-check-input:focus {
+    border-color: rgb(143, 160, 124);
+    box-shadow: 0 0 0 0.25rem rgba(143, 160, 124, 0.25);
+}
+.menu-footer {
+    text-transform: uppercase;
+}
+.legal p {
+    text-transform: uppercase;
+    font-family: "Open Sauce SemiBold";
+}
+/* ANIMACIÓN DE BOTÓN DE WHATSAPP **/
+.whatsapp-float {
+    position: fixed;
+    width: 80px;
+    height: 80px;
+    bottom: 25px;
+    right: 25px;
+    background-color: #25d366;
+    color: #fff;
+    border-radius: 50%;
+    text-align: center;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    animation: pulse 2s infinite;
+}
+.whatsapp-float img {
+    width: 50px;
+    height: 50px;
+    filter: drop-shadow(0 2px 3px rgba(0, 0, 0, 0.2));
+    animation: logo-rotate-subtle 5s ease-in-out infinite;
+}
+.whatsapp-float:hover {
+    background-color: #1ebc59;
+    transform: scale(1.1);
+    animation: none;
+}
+.whatsapp-float:hover img {
+    animation: logo-wiggle 0.6s ease-in-out;
+}
+/* Efecto de pulso */
+@keyframes pulse {
+    0% {
+        box-shadow: 0 0 0 0 rgba(37, 211, 102, 0.7);
+    }
+    70% {
+        box-shadow: 0 0 0 15px rgba(37, 211, 102, 0);
+    }
+    100% {
+        box-shadow: 0 0 0 0 rgba(37, 211, 102, 0);
+    }
+}
+/* Animación sutil de rotación - solo 30 grados */
+@keyframes logo-rotate-subtle {
+    0%,
+    100% {
+        transform: rotate(0deg) scale(1);
+    }
+    25% {
+        transform: rotate(-15deg) scale(1.02);
+    }
+    50% {
+        transform: rotate(0deg) scale(1);
+    }
+    75% {
+        transform: rotate(15deg) scale(1.02);
+    }
+}
+/* Animación al hacer hover - más suave */
+@keyframes logo-wiggle {
+    0%,
+    100% {
+        transform: rotate(0deg);
+    }
+    25% {
+        transform: rotate(-8deg);
+    }
+    50% {
+        transform: rotate(8deg);
+    }
+    75% {
+        transform: rotate(-4deg);
+    }
+}
+/* Animación alternativa - balanceo muy suave */
+@keyframes logo-swing {
+    0%,
+    100% {
+        transform: rotate(0deg);
+    }
+    33% {
+        transform: rotate(-10deg);
+    }
+    66% {
+        transform: rotate(10deg);
+    }
+}
+/* Notificación con rojo brillante */
+.notification {
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    background: linear-gradient(135deg, #ff3333 0%, #ff0000 100%);
+    color: white;
+    border-radius: 50%;
+    width: 28px;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Open Sauce SemiBold";
+    font-size: 14px;
+    font-weight: bold;
+    animation: pulse-notification 1.2s infinite;
+    box-shadow: 0 2px 8px rgba(255, 0, 0, 0.4);
+    border: 2px solid white;
+}
+@keyframes pulse-notification {
+    0% {
+        transform: scale(1);
+        box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.7);
+    }
+    50% {
+        transform: scale(1.15);
+        box-shadow: 0 0 0 8px rgba(255, 0, 0, 0);
+    }
+    100% {
+        transform: scale(1);
+        box-shadow: 0 0 0 0 rgba(255, 0, 0, 0);
+    }
+}
+/* Tooltip con negro 100% */
+.whatsapp-float::after {
+    content: "¡Escríbenos por WhatsApp!";
+    position: absolute;
+    bottom: 90px;
+    right: 0;
+    background-color: #000000;
+    color: white;
+    padding: 12px 16px;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 500;
+    white-space: nowrap;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s, visibility 0.3s;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+    border: 1px solid #333;
+}
+.whatsapp-float:hover::after {
+    opacity: 1;
+    visibility: visible;
+}
+/* Flecha del tooltip - también en negro 100% */
+.whatsapp-float::before {
+    content: "";
+    position: absolute;
+    bottom: 80px;
+    right: 35px;
+    border-width: 8px;
+    border-style: solid;
+    border-color: #000000 transparent transparent transparent;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s, visibility 0.3s;
+}
+.whatsapp-float:hover::before {
+    opacity: 1;
+    visibility: visible;
+}
+.animation-controls {
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.animation-btn {
+    background-color: #25d366;
+    color: white;
+    border: none;
+    padding: 10px 18px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s;
+    font-weight: bold;
+}
+.animation-btn:hover {
+    background-color: #1ebc59;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+@media (max-width: 600px) {
+    .phone-number {
+        font-size: 1.1rem;
+        padding: 12px 20px;
+    }
+
+    .whatsapp-float {
+        width: 70px;
+        height: 70px;
+        bottom: 20px;
+        right: 20px;
+    }
+
+    .whatsapp-float img {
+        width: 45px;
+        height: 45px;
+    }
+
+    .notification {
+        width: 25px;
+        height: 25px;
+        font-size: 12px;
+    }
+
+    .whatsapp-float::after {
+        font-size: 12px;
+        padding: 10px 12px;
+    }
+}
