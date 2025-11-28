@@ -18,11 +18,11 @@ body {
 }
 @font-face {
     font-family: "Brittany";
-    src: url("./fonts/BrittanySignature.ttf") format("truetype");
+    src: url("./fonts/BrittanySignature.ttf");
 }
 @font-face {
     font-family: "Montserrat Extra Light";
-    src: url("./fonts/Montserrat-ExtraLight.otf") format("truetype");
+    src: url("./fonts/Montserrat-ExtraLight.otf");
 }
 @font-face {
     font-family: "Montserrat Regular";
