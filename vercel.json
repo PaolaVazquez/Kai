@@ -1,13 +1,12 @@
 {
     "version": 2,
+    "public": true,
     "builds": [
         { "src": "public/index.php", "use": "@vercel/php" },
-        { "src": "vite.config.js", "use": "@vercel/static-build" }
+        { "src": "public/build/**/*", "use": "@vercel/static" }
     ],
     "routes": [
         { "src": "/build/(.*)", "dest": "/public/build/$1" },
         { "src": "/(.*)", "dest": "/public/index.php" }
-    ],
-
-    "framework": null
+    ]
 }
